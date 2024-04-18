@@ -15,7 +15,7 @@ Project Name: Naive Bayes on Donor Choose - Applying Naive Bayes on Donor'sChoos
 10. License
 
 # Overview
- In this project, the author implements the sklearn's NaiveBayes model on the Donor's Choose data which was the part of a Kaggle competition held in year 2018.  It involves preprocessing the data, training the model, tuning hyperparameters, and evaluating the model's performance.
+ In this project, the author implements the sklearn's NaiveBayes model on the Donor's Choose data which was the part of a Kaggle competition held in year 2018.  It involves preprocessing the data, training the model, tuning hyperparameters, and evaluating the model's performance. 
  
  Overview
 
@@ -35,7 +35,7 @@ Libraries listed in requirements.txt
 
 The project structure is organized as follows: \
 ├── notebooks \
-│─├── CountVectorizer.ipynb \
+│─├── NaiveBayesonDonorsChoose.ipynb \
 ├── README.md \
 ├── requirements.txt \
 └── LICENSE \
