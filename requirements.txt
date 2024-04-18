@@ -1,0 +1,9 @@
+beautifultable==1.1.0
+matplotlib==3.8.2
+numpy==1.26.3
+os
+pandas==2.1.4
+pathlib
+scikit-learn==1.4.0
+scipy==1.11.4
+seaborn==0.13.2
